@@ -1,0 +1,127 @@
+header{
+  background: black !important;
+  padding: 0 !important;
+}
+.head_right{
+  width: 210px;
+  height: 100%;
+  float: right;
+  text-align: center;
+}
+.head_right>.anticon{
+  font-size: 14px !important;
+}
+a{
+  display: inline-block;
+  margin: -40%; 
+  color:#9D9D9D !important;
+  /* width:40%; */
+}
+.anticon-home{
+  padding: 0 !important;
+}
+.sp{
+  width: 100% !important;
+  height:155px!important;
+  background:url('../../static/images/微信图片_20191024111112.jpg') no-repeat;
+  margin: 0 auto;
+  background-size:35%;
+}
+.list{
+  width: 13vw;
+  margin-left: 20%;
+}
+ul{
+  padding: 10% 0 10% 10%;
+  color: #424242;
+}
+li{
+  text-indent: -5%;
+  font-weight: 600;
+  margin-top: 3%;
+}
+.link{
+  width: 40%;
+}
+.ant-card-meta-avatar{
+    position: absolute;
+    top:90px;
+    left: 0;
+    right: 0;
+    margin:auto;
+    text-align: center;
+    
+}
+.ant-card{
+  margin: 30px 0 !important;
+}
+p{
+  text-indent: 5%;
+  margin: 0 !important;
+  line-height: 250%;
+  color: black;
+}
+/* p:nth-child(2){
+  font-size: 23px;
+  font-weight: 500;
+
+} */
+.img{
+  width: 112px !important;
+  height: 112px !important;
+}
+.sp1{
+  width: 108px;
+  height:108px;
+  border-radius: 50%;
+  background-size:100%;
+  position: absolute; 
+  top: 75px;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.label{
+  padding: 2.5%;
+}
+.inco{
+  padding: 10% 0 20%!important;
+}
+.title{
+  font-size: 25px;
+}
+.ant-card-bordered{ 
+  position: relative;
+  margin: 20px 0 0 0 !important;
+}
+.ant-layout-header{
+  height: 50px !important;
+}
+.ant-layout-sider{
+background: none !important;
+}
+.anticon{
+  /* font-size: 25px; */
+  /* padding: 40% 0 !important; */
+  text-align: center;
+}
+.ant-layout{
+  margin: 0 auto;
+  background:url('../../static/images/微信图片_20191015153602.jpg')no-repeat !important;
+  background-size: 100vw 110% !important;
+  background-attachment: fixed !important;
+}
+.ant-layout-content{
+  width: 53vw;
+}
+.ant-card-hoverable {
+    width: 19vw !important;
+    /* height: 100vh !important; */
+    position: relative;
+}
+.ant-card-body{
+  padding: 0 !important;
+}
+.Tag .ant-tag-has-color{
+  margin: 2% 4% 2% 2% !important;
+}

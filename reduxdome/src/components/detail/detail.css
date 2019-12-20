@@ -1,0 +1,26 @@
+.article{
+    width: 53vw !important; 
+    padding: 0 4% 0 4% !important;
+    margin: 1% 2vw 1% 0 !important; 
+}
+.article p{
+    text-indent: 0 !important;
+    /* width: 90% !important; */
+}
+.title{
+    font-weight: 800 !important;
+}
+.article_nr p:last-child{
+    padding-bottom:20px !important;
+}
+.article_nr{
+    overflow-wrap:break-word;
+    
+}
+.article_title{
+    width: 100%;
+    display: inline-block !important;
+}
+.article .ant-tag{
+    margin-right:0px !important ; 
+}
